@@ -18,6 +18,8 @@ package sani.demo.salestool;
 		System.out.println("This app shows how sales data");
 		
 		System.out.println("This first push ");
+		System.out.println("This is second push  --");
+		System.out.println("thsi is third push");
 	}
 
 }
